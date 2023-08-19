@@ -22,7 +22,7 @@ The default attachment size limit in Outlook is 20MB. This can be problematic wh
 
 5. Select OK and close the Registry Editor.
 
-### Using PowerShell
+### Using PowerShell / Run this script increase_attachment_size_limit.ps1
 
 ```
 $regPath = "HKCU:\Software\Microsoft\Office\16.0\Outlook\Preferences"
